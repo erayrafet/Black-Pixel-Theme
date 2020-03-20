@@ -1,7 +1,9 @@
 {
-  "version": "4.0",
+"icons": {
+    "128": "icon128.png" },
   "manifest_version": 2,
   "name": "Black Pixel",
+  "version": "5.0",
   "theme": {
    "images" : {
       "theme_tab_background":"images\/theme_tab_background.png",
@@ -81,12 +83,14 @@
       "tab_alert_audio": [
         255,
         255,
-        255
+        255,
+        1.0
       ],
       "tab_alert_capturing": [
         255,
         255,
-        255
+        255,
+        1.0
       ],
       "tab_alert_recording": [
         255,
@@ -116,7 +120,8 @@
       "tab_pip_playing": [
         255,
         255,
-        255
+        255,
+        1.0
       ],
       "tab_text": [
         255,
@@ -126,12 +131,14 @@
       "tab_throbber_spinning": [
         26,
         115,
-        232
+        232,
+        1.0
       ],
       "tab_throbber_waiting": [
         26,
         115,
-        232
+        232,
+        1.0
       ],
       "toolbar": [
         0,
@@ -143,10 +150,16 @@
         255,
         255
       ],
+      "toolbar_button_icon_inactive": [
+        255,
+        255,
+        255
+      ],
       "toolbar_ink_drop": [
         26,
         115,
-        232
+        232,
+        1.0
       ]
     },
     "tints": {
