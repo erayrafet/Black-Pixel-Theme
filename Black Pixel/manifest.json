@@ -1,188 +1,188 @@
 {
 "icons": {
     "128": "icon128.png" },
-  "manifest_version": 2,
-  "name": "Black Pixel",
-  "version": "5.0",
-  "theme": {
-   "images" : {
-      "theme_tab_background":"images\/theme_tab_background.png",
-      "theme_tab_background_incognito":"images\/theme_tab_background.png"
-    },
-    "colors": {
-      "accent_border": [
+"manifest_version": 2,
+"name": "Black Pixel",
+"version": "6.0",
+"theme": {
+  "images" : {
+    "theme_tab_background":"images\/theme_tab_background.png",
+    "theme_tab_background_incognito":"images\/theme_tab_background.png"
+  },
+  "colors": {
+    "accent_border": [
         26,
         115,
         232
-      ],
-      "bookmark_text": [
+    ],
+    "bookmark_text": [
         255,
         255,
         255
-      ],
-      "button_background": [
+    ],
+    "button_background": [
         0,
         0,
         0
-      ],
-      "download_shelf": [
+    ],
+    "download_shelf": [
         0,
         0,
         0
-      ],
+    ],
       "infobar": [
         0,
         0,
         0
-      ],
-      "ntp_background": [
+    ],
+    "ntp_background": [
         0,
         0,
         0
-      ],
-      "ntp_header": [
+    ],
+    "ntp_header": [
         0,
         0,
         0
-      ],
-      "ntp_link": [
+    ],
+    "ntp_link": [
         26,
         115,
         232
-      ],
-      "ntp_logo": [
+    ],
+    "ntp_logo": [
         26,
         115,
         232
-      ],
-      "ntp_shortcut": [
+    ],
+    "ntp_shortcut": [
         0,
         0,
         0
-      ],
-      "ntp_text": [
+    ],
+    "ntp_text": [
         26,
         115,
         232
-      ],
-      "omnibox_text": [
+    ],
+    "omnibox_text": [
         255,
         255,
         255
-      ],
-      "omnibox_background": [
+    ],
+    "omnibox_background": [
         33,
         33,
         37
-      ],
-      "status_buble": [
+    ],
+    "status_buble": [
         33,
         33,
         37
-      ],
-      "tab_alert_audio": [
+    ],
+    "tab_alert_audio": [
         255,
         255,
         255,
         1.0
-      ],
-      "tab_alert_capturing": [
+    ],
+    "tab_alert_capturing": [
         255,
         255,
         255,
         1.0
-      ],
-      "tab_alert_recording": [
+    ],
+    "tab_alert_recording": [
         255,
         255,
         255
-      ],
-      "tab_background_text": [
+    ],
+    "tab_background_text": [
         255,
         255,
         255
-      ],
-      "tab_background_text_inactive": [
+    ],
+    "tab_background_text_inactive": [
         255,
         255,
         255
-      ],
-      "tab_background_text_incognito": [
+    ],
+    "tab_background_text_incognito": [
         255,
         255,
         255
-      ],
-      "tab_background_text_incognito_inactive": [
+    ],
+    "tab_background_text_incognito_inactive": [
         255,
         255,
         255
-      ],
-      "tab_pip_playing": [
+    ],
+    "tab_pip_playing": [
         255,
         255,
         255,
         1.0
-      ],
-      "tab_text": [
+    ],
+    "tab_text": [
         255,
         255,
         255
-      ],
-      "tab_throbber_spinning": [
+    ],
+    "tab_throbber_spinning": [
         26,
         115,
         232,
         1.0
-      ],
-      "tab_throbber_waiting": [
+    ],
+    "tab_throbber_waiting": [
         26,
         115,
         232,
         1.0
-      ],
-      "toolbar": [
+    ],
+    "toolbar": [
         0,
         0,
         0
-      ],
-      "toolbar_button_icon": [
+    ],
+    "toolbar_button_icon": [
         255,
         255,
         255
-      ],
-      "toolbar_button_icon_inactive": [
+    ],
+    "toolbar_button_icon_inactive": [
         255,
         255,
         255
-      ],
-      "toolbar_ink_drop": [
+    ],
+    "toolbar_ink_drop": [
         26,
         115,
         232,
         1.0
-      ]
-    },
-    "tints": {
-      "frame": [
+    ]
+  },
+  "tints": {
+    "frame": [
         0,
         0,
         0
-      ],
-      "frame_inactive": [
+    ],
+    "frame_inactive": [
         0,
         0,
         0
-      ],
-      "frame_incognito": [
+    ],
+    "frame_incognito": [
         0,
         0,
         0
-      ],
-      "frame_incognito_inactive": [
+    ],
+    "frame_incognito_inactive": [
         0,
         0,
         0
-     ]
-    }
+    ]
   }
+}
 }
