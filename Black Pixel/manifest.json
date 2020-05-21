@@ -1,16 +1,17 @@
 {
 "icons": {
-    "128": "icon128.png" },
+  "128": "icon128.png"
+},
 "manifest_version": 2,
 "name": "Black Pixel",
-"version": "6.0",
+"version": "7.0",
 "theme": {
   "images" : {
     "theme_tab_background":"images\/theme_tab_background.png",
     "theme_tab_background_incognito":"images\/theme_tab_background.png"
   },
   "colors": {
-    "accent_border": [
+      "accent_border": [
         26,
         115,
         232
@@ -26,6 +27,11 @@
         0
     ],
     "download_shelf": [
+        0,
+        0,
+        0
+    ],
+    "hover_card_no_preview_background": [
         0,
         0,
         0
@@ -61,11 +67,11 @@
         0
     ],
     "ntp_text": [
-        26,
-        115,
-        232
+        255,
+        255,
+        255
     ],
-    "omnibox_text": [
+    "ntp_text_light": [
         255,
         255,
         255
@@ -75,6 +81,34 @@
         33,
         37
     ],
+    "omnibox_bubble_outline": [
+        26,
+        115,
+        232,
+        1.0
+    ],
+    "omnibox_bubble_outline_experimental_keyword_mode": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_icon": [
+        255,
+        255,
+        255,
+        1.0
+    ],
+    "omnibox_results_icon_selected": [
+        255,
+        255,
+        255,
+        1.0
+    ],
+    "omnibox_text": [
+        255,
+        255,
+        255
+    ],
     "status_buble": [
         33,
         33,
@@ -83,14 +117,12 @@
     "tab_alert_audio": [
         255,
         255,
-        255,
-        1.0
+        255
     ],
     "tab_alert_capturing": [
         255,
         255,
-        255,
-        1.0
+        255
     ],
     "tab_alert_recording": [
         255,
@@ -120,8 +152,7 @@
     "tab_pip_playing": [
         255,
         255,
-        255,
-        1.0
+        255
     ],
     "tab_text": [
         255,
@@ -150,19 +181,54 @@
         255,
         255
     ],
+    "toolbar_button_icon_hovered": [
+        26,
+        115,
+        232
+    ],
     "toolbar_button_icon_inactive": [
         255,
         255,
         255
+    ],
+    "toolbar_button_icon_pressed": [
+        26,
+        115,
+        232
     ],
     "toolbar_ink_drop": [
         26,
         115,
         232,
         1.0
+    ],
+      "window_control_button_background_active": [
+        255,
+        255,
+        255
+    ],
+      "window_control_button_background_inactive": [
+        255,
+        255,
+        255
+    ],
+      "window_control_button_background_incognito_active": [
+        255,
+        255,
+        255
+    ],
+      "window_control_button_background_incognito_inactive": [
+        255,
+        255,
+        255
     ]
   },
   "tints": {
+    "background_tab": [
+        0,
+        0,
+        0
+    ],
     "frame": [
         0,
         0,
