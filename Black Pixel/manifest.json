@@ -84,8 +84,7 @@
     "omnibox_bubble_outline": [
         26,
         115,
-        232,
-        1.0
+        232
     ],
     "omnibox_bubble_outline_experimental_keyword_mode": [
         26,
@@ -95,14 +94,12 @@
     "omnibox_results_icon": [
         255,
         255,
-        255,
-        1.0
+        255
     ],
     "omnibox_results_icon_selected": [
         255,
         255,
-        255,
-        1.0
+        255
     ],
     "omnibox_text": [
         255,
@@ -162,14 +159,12 @@
     "tab_throbber_spinning": [
         26,
         115,
-        232,
-        1.0
+        232
     ],
     "tab_throbber_waiting": [
         26,
         115,
-        232,
-        1.0
+        232
     ],
     "toolbar": [
         0,
@@ -199,8 +194,7 @@
     "toolbar_ink_drop": [
         26,
         115,
-        232,
-        1.0
+        232
     ],
       "window_control_button_background_active": [
         255,
