@@ -16,8 +16,11 @@
 
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide%20-%203.png)
 
+---
+---
 
-# The Firefox version is available at https://addons.mozilla.org/en-US/firefox/addon/black-pixel/
+# Preview for the Firefox version
+Available at https://addons.mozilla.org/en-US/firefox/addon/black-pixel/
 
 
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview2.png)
