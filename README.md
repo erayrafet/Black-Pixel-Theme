@@ -8,7 +8,7 @@
 
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide.png)
 
-**2. Drag and drop the theme.crx file in that window.**
+**2. Drag and drop the theme.crx file from the [GitHub Releases page](https://github.com/erayrafet/Black-Pixel-Theme/releases) to that window.**
   
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide%20-%202.png)
 
