@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "4.0",
+  "name": "Black Pixel",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "frame": "rgb(33, 33, 37)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup": "rgb(33, 33, 37)",
+      "popup_text": "rgb(255, 255, 255)",      
+      "sidebar": "rgb(0, 0, 0)",
+      "sidebar_highlight": "rgb(33, 33, 37)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(26, 115, 232)",
+      "tab_loading": "rgb(26, 115, 232)",
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(33, 33, 37)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(255, 255, 255)"
+    }
+  }
+}

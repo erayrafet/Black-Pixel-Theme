@@ -1,11 +1,10 @@
-# Preview
+# Preview for the Chrome version
 
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview.png)
+![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview1.png)
 
 
-# Installation guide
-
-**1. Turn on Developer mode in the Chrome/Edge Extensions page.**
+## Installation guide
+**1. Turn on Developer mode in the Chrome/Chrome OS/Edge Extensions page.**
 
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide.png)
 
@@ -16,3 +15,9 @@
 **3. Click "Add theme" and you're done.**
 
 ![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide%20-%203.png)
+
+
+# The Firefox version is available at https://addons.mozilla.org/en-US/firefox/addon/black-pixel/
+
+
+![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview2.png)
