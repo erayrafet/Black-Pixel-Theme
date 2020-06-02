@@ -4,14 +4,14 @@
 },
 "manifest_version": 2,
 "name": "Black Pixel",
-"version": "7.0",
+"version": "8.0",
 "theme": {
   "images" : {
     "theme_tab_background":"images\/theme_tab_background.png",
     "theme_tab_background_incognito":"images\/theme_tab_background.png"
   },
   "colors": {
-      "accent_border": [
+    "accent_border": [
         26,
         115,
         232
@@ -26,20 +26,45 @@
         0,
         0
     ],
+    "control_button_background": [
+        0,
+        0,
+        0
+    ],
     "download_shelf": [
         0,
         0,
         0
+    ],
+    "feature_promo_bubble_text": [
+        255,
+        255,
+        255
+    ],
+    "feature_promo_bubble_background": [
+        0,
+        0,
+        0
+    ],
+    "frame_active": [
+        26,
+        115,
+        232
     ],
     "hover_card_no_preview_background": [
         0,
         0,
         0
     ],
-      "infobar": [
+    "infobar": [
         0,
         0,
         0
+    ],
+    "location_bar_border": [
+        26,
+        115,
+        232
     ],
     "ntp_background": [
         0,
@@ -62,9 +87,9 @@
         232
     ],
     "ntp_shortcut": [
-        0,
-        0,
-        0
+        33,
+        33,
+        37
     ],
     "ntp_text": [
         255,
@@ -87,6 +112,11 @@
         232
     ],
     "omnibox_bubble_outline_experimental_keyword_mode": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_selected_keyword": [
         26,
         115,
         232
@@ -126,6 +156,46 @@
         255,
         255
     ],
+    "tab_background_active_frame_active": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_active_frame_active_incognito": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_active_frame_inactive": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_active_frame_inactive_incognito": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_inactive_frame_active": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_inactive_frame_active_incognito": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_inactive_frame_inactive": [
+        26,
+        115,
+        232
+    ],
+    "tab_background_inactive_frame_inactive_incognito": [
+        26,
+        115,
+        232
+    ],
     "tab_background_text": [
         255,
         255,
@@ -145,6 +215,26 @@
         255,
         255,
         255
+    ],    
+    "tab_foreground_active_frame_active": [
+        26,
+        115,
+        232
+    ],
+    "tab_foreground_active_frame_active_incognito": [
+        26,
+        115,
+        232
+    ],
+    "tab_foreground_active_frame_inactive": [
+        26,
+        115,
+        232
+    ],
+    "tab_foreground_active_frame_inactive_incognito": [
+        26,
+        115,
+        232
     ],
     "tab_pip_playing": [
         255,
@@ -191,30 +281,50 @@
         115,
         232
     ],
+    "toolbar_content_area_separator": [
+        0,
+        0,
+        0
+    ],
     "toolbar_ink_drop": [
         26,
         115,
         232
     ],
+    "toolbar_top_separator": [
+        0,
+        0,
+        0
+    ],
+    "toolbar_top_separator_inactive": [
+        0,
+        0,
+        0
+    ],
+    "toolbar_vertical_separator": [
+        0,
+        0,
+        0
+    ],
       "window_control_button_background_active": [
-        255,
-        255,
-        255
+        26,
+        115,
+        232
     ],
       "window_control_button_background_inactive": [
-        255,
-        255,
-        255
+        26,
+        115,
+        232
     ],
       "window_control_button_background_incognito_active": [
-        255,
-        255,
-        255
+        26,
+        115,
+        232
     ],
       "window_control_button_background_incognito_inactive": [
-        255,
-        255,
-        255
+        26,
+        115,
+        232
     ]
   },
   "tints": {
