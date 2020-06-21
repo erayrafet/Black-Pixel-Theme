@@ -5,6 +5,7 @@
 "manifest_version": 2,
 "name": "Black Pixel",
 "version": "8.0",
+"short_name": "Black Pixel",
 "theme": {
   "images" : {
     "theme_tab_background":"images\/theme_tab_background.png",
