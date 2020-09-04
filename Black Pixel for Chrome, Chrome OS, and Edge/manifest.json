@@ -4,7 +4,7 @@
 },
 "manifest_version": 2,
 "name": "Black Pixel",
-"version": "8.0",
+"version": "9.0",
 "short_name": "Black Pixel",
 "theme": {
   "images" : {
@@ -16,6 +16,17 @@
         26,
         115,
         232
+    ],
+    "accent_border_active": [
+        26,
+        115,
+        232
+    ],
+    "accent_border_inactive": [
+        26,
+        115,
+        232,
+        90
     ],
     "bookmark_text": [
         255,
@@ -117,11 +128,6 @@
         115,
         232
     ],
-    "omnibox_selected_keyword": [
-        26,
-        115,
-        232
-    ],
     "omnibox_results_icon": [
         255,
         255,
@@ -131,6 +137,36 @@
         255,
         255,
         255
+    ],
+    "omnibox_results_text_dimmed": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_text_dimmed_selected": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_text_selected": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_url": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_url_selected": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_selected_keyword": [
+        26,
+        115,
+        232
     ],
     "omnibox_text": [
         255,
