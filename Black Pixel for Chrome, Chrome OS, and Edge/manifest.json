@@ -4,7 +4,7 @@
 },
 "manifest_version": 3,
 "name": "Black Pixel",
-"version": "11.0",
+"version": "12.0",
 "short_name": "Black Pixel",
 "theme": {
   "images" : {
@@ -48,15 +48,15 @@
         0,
         0
     ],
-    "feature_promo_bubble_text": [
-        255,
-        255,
-        255
-    ],
     "feature_promo_bubble_background": [
         0,
         0,
         0
+    ],
+    "feature_promo_bubble_text": [
+        255,
+        255,
+        255
     ],
     "frame_active": [
         26,
@@ -64,10 +64,15 @@
         232
     ],
     "hover_card_no_preview_background": [
-        0,
-        0,
-        0
+        32,
+        33,
+        36
     ],
+     "hover_card_no_preview_foreground": [
+        255,
+        255,
+        255
+    ],   
     "infobar": [
         0,
         0,
@@ -99,9 +104,9 @@
         232
     ],
     "ntp_shortcut": [
+        32,
         33,
-        33,
-        37
+        36
     ],
     "ntp_text": [
         255,
@@ -114,9 +119,9 @@
         255
     ],
     "omnibox_background": [
+        32,
         33,
-        33,
-        37
+        36
     ],
     "omnibox_bubble_outline": [
         26,
@@ -124,6 +129,21 @@
         232
     ],
     "omnibox_bubble_outline_experimental_keyword_mode": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_bg": [
+        32,
+        33,
+        36
+    ],
+    "omnibox_results_button_border": [
+        26,
+        115,
+        232
+    ],
+    "omnibox_results_focus_bar": [
         26,
         115,
         232
@@ -174,9 +194,9 @@
         255
     ],
     "status_buble": [
+        32,
         33,
-        33,
-        37
+        36
     ],
     "tab_alert_audio": [
         255,
@@ -369,6 +389,11 @@
         0,
         0,
         0
+    ],
+    "buttons": [
+        255,
+        255,
+        255
     ],
     "frame": [
         0,
