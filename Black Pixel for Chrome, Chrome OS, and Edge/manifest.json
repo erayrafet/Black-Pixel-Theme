@@ -63,6 +63,21 @@
         115,
         232
     ],
+    "frame_active_incognito": [
+        26,
+        115,
+        232
+    ],
+    "frame_inactive": [
+        0,
+        0,
+        0
+    ],
+    "frame_inactive_incognito": [
+        0,
+        0,
+        0
+    ],
     "hover_card_no_preview_background": [
         32,
         33,
