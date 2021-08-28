@@ -4,7 +4,7 @@
 },
 "manifest_version": 3,
 "name": "Black Pixel",
-"version": "12.0",
+"version": "13.0",
 "short_name": "Black Pixel",
 "theme": {
   "images" : {
