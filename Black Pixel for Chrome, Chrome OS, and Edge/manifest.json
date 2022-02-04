@@ -4,7 +4,7 @@
 },
 "manifest_version": 3,
 "name": "Black Pixel",
-"version": "13.0",
+"version": "15.0",
 "short_name": "Black Pixel",
 "theme": {
   "images" : {
@@ -362,6 +362,11 @@
         26,
         115,
         232
+    ],
+    "toolbar_text": [
+        255,
+        255,
+        255
     ],
     "toolbar_top_separator": [
         0,
