@@ -4,39 +4,17 @@
 },
 "manifest_version": 3,
 "name": "Black Pixel",
-"version": "15.0",
+"version": "16.0",
 "short_name": "Black Pixel",
 "theme": {
   "images" : {
-    "theme_tab_background":"images\/theme_tab_background.png",
-    "theme_tab_background_incognito":"images\/theme_tab_background.png"
+    "theme_frame":"images\/frame.png"
   },
   "colors": {
-    "accent_border": [
-        26,
-        115,
-        232
-    ],
-    "accent_border_active": [
-        26,
-        115,
-        232
-    ],
-    "accent_border_inactive": [
-        26,
-        115,
-        232,
-        90
-    ],
     "bookmark_text": [
         255,
         255,
         255
-    ],
-    "button_background": [
-        0,
-        0,
-        0
     ],
     "control_button_background": [
         0,
@@ -58,22 +36,12 @@
         255,
         255
     ],
-    "frame_active": [
+    "frame_caption_active": [
         26,
         115,
         232
     ],
-    "frame_active_incognito": [
-        26,
-        115,
-        232
-    ],
-    "frame_inactive": [
-        0,
-        0,
-        0
-    ],
-    "frame_inactive_incognito": [
+    "frame_caption_inactive": [
         0,
         0,
         0
@@ -87,33 +55,13 @@
         255,
         255,
         255
-    ],   
-    "infobar": [
-        0,
-        0,
-        0
-    ],
-    "location_bar_border": [
-        26,
-        115,
-        232
     ],
     "ntp_background": [
         0,
         0,
         0
     ],
-    "ntp_header": [
-        0,
-        0,
-        0
-    ],
     "ntp_link": [
-        26,
-        115,
-        232
-    ],
-    "ntp_logo": [
         26,
         115,
         232
@@ -134,81 +82,11 @@
         255
     ],
     "omnibox_background": [
-        32,
-        33,
-        36
+        27,
+        27,
+        27
     ],
-    "omnibox_bubble_outline": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_bubble_outline_experimental_keyword_mode": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_bg": [
-        32,
-        33,
-        36
-    ],
-    "omnibox_results_button_border": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_focus_bar": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_icon": [
-        255,
-        255,
-        255
-    ],
-    "omnibox_results_icon_selected": [
-        255,
-        255,
-        255
-    ],
-    "omnibox_results_text_dimmed": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_text_dimmed_selected": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_text_selected": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_url": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_results_url_selected": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_selected_keyword": [
-        26,
-        115,
-        232
-    ],
-    "omnibox_text": [
-        255,
-        255,
-        255
-    ],
-    "status_buble": [
+    "status_bubble": [
         32,
         33,
         36
@@ -228,46 +106,6 @@
         255,
         255
     ],
-    "tab_background_active_frame_active": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_active_frame_active_incognito": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_active_frame_inactive": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_active_frame_inactive_incognito": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_inactive_frame_active": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_inactive_frame_active_incognito": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_inactive_frame_inactive": [
-        26,
-        115,
-        232
-    ],
-    "tab_background_inactive_frame_inactive_incognito": [
-        26,
-        115,
-        232
-    ],
     "tab_background_text": [
         255,
         255,
@@ -277,36 +115,6 @@
         255,
         255,
         255
-    ],
-    "tab_background_text_incognito": [
-        255,
-        255,
-        255
-    ],
-    "tab_background_text_incognito_inactive": [
-        255,
-        255,
-        255
-    ],    
-    "tab_foreground_active_frame_active": [
-        26,
-        115,
-        232
-    ],
-    "tab_foreground_active_frame_active_incognito": [
-        26,
-        115,
-        232
-    ],
-    "tab_foreground_active_frame_inactive": [
-        26,
-        115,
-        232
-    ],
-    "tab_foreground_active_frame_inactive_incognito": [
-        26,
-        115,
-        232
     ],
     "tab_pip_playing": [
         255,
@@ -338,26 +146,6 @@
         255,
         255
     ],
-    "toolbar_button_icon_hovered": [
-        26,
-        115,
-        232
-    ],
-    "toolbar_button_icon_inactive": [
-        255,
-        255,
-        255
-    ],
-    "toolbar_button_icon_pressed": [
-        26,
-        115,
-        232
-    ],
-    "toolbar_content_area_separator": [
-        0,
-        0,
-        0
-    ],
     "toolbar_ink_drop": [
         26,
         115,
@@ -367,21 +155,6 @@
         255,
         255,
         255
-    ],
-    "toolbar_top_separator": [
-        0,
-        0,
-        0
-    ],
-    "toolbar_top_separator_inactive": [
-        0,
-        0,
-        0
-    ],
-    "toolbar_vertical_separator": [
-        0,
-        0,
-        0
     ],
       "window_control_button_background_active": [
         26,
@@ -405,37 +178,12 @@
     ]
   },
   "tints": {
-    "background_tab": [
-        0,
-        0,
-        0
-    ],
     "buttons": [
         255,
         255,
         255
     ],
-    "frame": [
-        0,
-        0,
-        0
-    ],
     "frame_inactive": [
-        0,
-        0,
-        0
-    ],
-    "frame_incognito": [
-        0,
-        0,
-        0
-    ],
-    "frame_incognito_inactive": [
-        0,
-        0,
-        0
-    ],
-    "should_fill_background_tab_color": [
         0,
         0,
         0
