@@ -21,11 +21,6 @@
         0,
         0
     ],
-    "download_shelf": [
-        0,
-        0,
-        0
-    ],
     "feature_promo_bubble_background": [
         0,
         0,
@@ -35,16 +30,6 @@
         255,
         255,
         255
-    ],
-    "frame_caption_active": [
-        26,
-        115,
-        232
-    ],
-    "frame_caption_inactive": [
-        0,
-        0,
-        0
     ],
     "hover_card_no_preview_background": [
         32,
@@ -61,22 +46,7 @@
         0,
         0
     ],
-    "ntp_link": [
-        26,
-        115,
-        232
-    ],
-    "ntp_shortcut": [
-        32,
-        33,
-        36
-    ],
     "ntp_text": [
-        255,
-        255,
-        255
-    ],
-    "ntp_text_light": [
         255,
         255,
         255
@@ -126,16 +96,6 @@
         255,
         255
     ],
-    "tab_throbber_spinning": [
-        26,
-        115,
-        232
-    ],
-    "tab_throbber_waiting": [
-        26,
-        115,
-        232
-    ],
     "toolbar": [
         0,
         0,
@@ -146,35 +106,10 @@
         255,
         255
     ],
-    "toolbar_ink_drop": [
-        26,
-        115,
-        232
-    ],
     "toolbar_text": [
         255,
         255,
         255
-    ],
-      "window_control_button_background_active": [
-        26,
-        115,
-        232
-    ],
-      "window_control_button_background_inactive": [
-        26,
-        115,
-        232
-    ],
-      "window_control_button_background_incognito_active": [
-        26,
-        115,
-        232
-    ],
-      "window_control_button_background_incognito_inactive": [
-        26,
-        115,
-        232
     ]
   },
   "tints": {
