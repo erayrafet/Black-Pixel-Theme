@@ -1,26 +1,17 @@
-# Preview for the Chrome version
+# Black Pixel Theme
+[<img src="images/chrome-badge.svg" alt="Available in the Chrome Web Store" align="middle">][chromestore] [<img src="images/firefox-badge.svg" alt="Get the Add-On" align="middle">][firefoxaddons]
 
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview1.png)
+Black theme with blue accents for [Google Chrome][chrome], [ChromeOS][chromeos], [Microsoft Edge][edge], and [Mozilla Firefox][firefox], inspired by Google's [Material Design][material] for their Pixel series of smartphones.
 
+## Preview
 
-## Installation guide
-**1. Turn on Developer mode in the Chrome/Chrome OS/Edge Extensions page.**
+![Chrome Preview](images/Chrome_Preview.png)
+![Firefox Preview](images/Firefox_Preview.png)
 
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide.png)
-
-**2. Drag and drop the theme.crx file from the [GitHub Releases page](https://github.com/erayrafet/Black-Pixel-Theme/releases) to that window.**
-  
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide%20-%202.png)
-
-**3. Click "Add theme" and you're done.**
-
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Installation%20guide%20-%203.png)
-
----
----
-
-# Preview for the Firefox version
-Available at https://addons.mozilla.org/en-US/firefox/addon/black-pixel/
-
-
-![Image description](https://raw.githubusercontent.com/erayrafet/Black-Pixel-Theme-for-Chrome/master/Preview2.png)
+[chromestore]: https://chromewebstore.google.com/detail/black-pixel/nfpfolfbmhaemdcmejphhdhjbpmjgknc
+[firefoxaddons]: https://addons.mozilla.org/en-US/firefox/addon/black-pixel/
+[chrome]: https://www.google.com/chrome/
+[chromeos]: https://www.google.com/chromebook/chrome-os/
+[edge]: https://www.microsoft.com/edge
+[firefox]: https://www.mozilla.org/firefox/
+[material]: https://material.io/
